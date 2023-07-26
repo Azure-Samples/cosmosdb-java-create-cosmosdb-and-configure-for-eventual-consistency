@@ -12,7 +12,7 @@ extensions:
 # Getting Started with Cosmos - Create Cosmos DB With Eventual Consistency - in Java #
 
 
-  Azure CosmosDB sample for high availability.
+  Azure Cosmos DB sample for high availability.
    - Create a CosmosDB configured with eventual consistency
    - Get the credentials for the CosmosDB
    - add collection to the CosmosDB
